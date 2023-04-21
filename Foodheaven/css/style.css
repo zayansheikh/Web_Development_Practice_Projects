@@ -1,0 +1,556 @@
+.f-container{
+    background-image: url(https://html.themexriver.com/Saasio/assets/img/res/d1.jpg);
+    width: 100%;
+    height: 740px;
+}
+.list{
+    margin: 0px 6px 0px 8px;
+}
+.table{
+    background-color: #c9ab81;
+    font-size: 1.3em;
+    margin-top: -5px;
+    border: 3px solid #c9ab81;
+    float: right;
+}
+.table:hover{
+    background-color: transparent;
+}
+.ncontainer{
+    margin-top: 28px;
+}
+.name{
+    text-align: center;
+    margin-top: 105px;
+}
+.name p{
+    font-size: 18px;
+    display: inline-block;
+    color: #c9ab81;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: -1px;
+}
+.name h1{
+    color: #fff;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 1.139;
+    padding: 10px 0px 30px;
+}
+.meanubtn{
+    border-radius: 0px;
+    background-color: #c9ab81;
+    color: white;
+    border: 3px solid #c9ab81;
+    margin: 0px 10px;
+    font-weight: 500;
+}
+.meanubtn:hover{
+    color: white;
+    background-color: transparent;
+}
+.sub-container{
+    background-color: #06090a;
+}
+.s-container{
+    width: 100%;
+    height: 400px;
+}
+.th-container{
+    background-color: #090d0e;
+    height: 740px;
+}
+.own{
+    width: 93%;
+    margin: 0 auto;
+}
+.foodac{
+    border: 2px solid blue;
+}
+.foodb{
+    border: 2px solid red;
+    height:240px;
+}
+.service{
+    background-color: #0e1415;
+    position: relative;
+    top: -90px;
+    height: 200px;
+    height: 153px;
+}
+/* .pic{
+    width: 28%;
+    height: 135px;
+}
+.pic i{
+    position: absolute;
+    font-size: 4em;
+    top: 34px;
+    left: 7%;
+    color: burlywood;
+}
+.info{
+    width: 72%;
+    height: 135px;
+    text-align: center;
+}
+.info h5{
+    font-weight: 400;
+    font-size: 1.2em;
+    margin-top: 30px;
+}
+.info p{
+    font-size: 0.9em;
+} */
+.t-container{
+    background-color: #06090a;
+}
+.mycon{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.fooda {
+    height: 248px;
+}
+.aboutus{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 76%;
+}
+.aboutus span{
+    color: #c9ab81;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+.aboutus h1{
+    line-height: 49px;
+    font-size: 3em;
+    font-weight: 400;
+}
+.aboutus p{
+    color: #7e888a;
+    font-weight: 400;
+    font-size: 1em;
+}
+.mycon img{
+    width: 100%;
+    height: 248px;
+}
+.t-container{
+    width: 100%;
+    height: 640px;
+}
+.feature{
+    height: 415px;
+}
+.t-container .mycon img{
+    width: 100%;
+    height:  inherit;
+}
+.s-head{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+.t-container .mycon h1{
+    line-height: 49px;
+    font-size: 3em;
+    font-weight: 400;
+}
+.t-container .mycon p{
+    color: #7e888a;
+    font-weight: 400;
+    font-size: 1em;
+}
+.mybtn{
+    background-color: #c9ab81;
+    border: 3px solid #c9ab81;
+    border-radius: 0px;
+    width: 178px;
+}
+.mybtn:hover{
+    background-color: transparent;
+    border: 3px solid #c9ab81;
+}
+.mainmeanu{
+    background-color: #090d0e;
+    height: 820px;
+}
+.mainmeanu p{
+    font-size: 13px;
+    color: #acb8bb;
+}
+.mainmeanu h3{
+    display: inline-block;
+}
+.bottom-b{
+    border-bottom: 2px dashed #5b808a;
+}
+.b-bottom{
+    border-bottom: 2px solid #5b808a;
+}
+
+.rs{
+    float: right;
+    margin-top: 38px;
+    color: burlywood;
+}
+.mainmeanu h3 {
+    display: inline-block;
+    font-weight: 400;
+    margin-left: 16px;
+}
+.m-m{
+    margin-top: 60px;
+}
+.mainmeanu h2{
+    color: white;
+    font-size: 63px;
+    font-weight: 300;
+}
+.meanuspan{
+    color: burlywood;
+    font-family: 'Dancing Script', cursive;
+}
+.num{
+    float: right;
+    color: burlywood;
+    font-size: 23px;
+    width: 40px;
+    height: 40px;
+    border-radius: 360px;
+    background-color: #121a1b;
+    margin-top: 15px;
+}
+.burger{
+    font-weight: 400;
+    text-decoration: none;
+}
+.mys{
+    height: 510px;
+}
+.video img{
+    width: 100%;
+    height: 630px;
+}
+.video a img{
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: -445px;
+}
+.fi-container{
+    background-color: #121a1b;
+}
+.lasta{
+    border: 2px solid green
+}
+.firstc{
+    height: 335px;
+    margin-top: 82px;
+}
+.map{
+    width: 111px;
+    height: 61px;
+    margin-top: 66px;
+}
+.fi-container h4{
+    color: white;
+    font-family: inherit;
+    font-size: 2em;
+    font-weight: 400;
+    margin-top: 25px;
+}
+.fi-container span{
+    color: #839095;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+.app-res-opening-time{
+    margin-top: 84px;
+    padding: 55px 55px 30px;
+    background-color: #c9ab81;
+    margin-left: 9px
+    pa
+}
+.firstd{
+    height: 335px
+
+}
+.ul-li ul li {
+    list-style: none;
+    display: inline-block;
+}
+.app-res-opening-time h3 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 24px;
+    text-transform: uppercase;
+}
+.ul-li ul {
+    margin: 0;
+    padding: 0;
+}
+.float-right {
+    float: right!important;
+}
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+/* *{
+	padding:0;
+	margin:0;
+}
+
+html{
+	background-color: #eaf0f2;
+}
+
+body{
+	font:16px/1.6 Arial,  sans-serif;
+} */
+
+header{
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom:190px;
+}
+
+header h1{
+	font: normal 32px/1.5 'Open Sans', sans-serif;
+	color: #3F71AE;
+	padding-bottom: 16px;
+}
+
+header h2{
+	color: #F05283;
+}
+
+header span{
+	color: #3F71EA;
+}
+
+
+/* The footer is fixed to the bottom of the page */
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+
+@media (max-height:800px){
+	footer { position: static; }
+	header { padding-top:40px; }
+}
+
+.footerpera{
+    color: white;
+    font-size: 1.2em;
+    font-weight: 100;
+}
+.footer-distributed{
+    position: relative;
+	background-color: black;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 50px 50px 60px 50px;
+	margin-top: 80px;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+	width: 30%;
+}
+
+.footer-distributed h3{
+	color:  #ffffff;
+	font: normal 36px 
+}
+/* The company logo */
+
+.footer-distributed .footer-left img{
+	width: 100px;
+    height: 50px;
+}
+/* Footer links */
+
+.footer-distributed .footer-links{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+}
+
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+	width: 35%;
+}
+
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #ffffff;
+	vertical-align: middle;
+	margin:0;
+}
+
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+	color:  #e0ac1c;
+	text-decoration: none;;
+}
+
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+	width: 30%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+
+.bottom{
+    padding: 30px 0px ;
+    background-color: #020303;
+    text-transform: uppercase!important;
+    text-align: center!important;
+    box-sizing: border-box;
+}
+
+/* Here is the code for Responsive Footer */
+/* You can remove below code if you don't want Footer to be responsive */
+
+
+@media (max-width: 880px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+
+
+
+@media (max-width: 450px) {
+    .meanubtn{
+        width: 150px;
+        height: 56px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 370px) {
+    .meanubtn{
+        width: 120px;
+        height: 50px;
+        font-size: 12px;
+    }
+}
+@media (max-width: 770px){
+    .s-container{
+        height: 760px;
+    }
+    .aboutus h1{
+        line-height: 40px;
+        font-size: 2.2em;
+    }    
+}
+@media (max-width: 500px){
+    .aboutus h1{
+        line-height: 35px;
+        font-size: 2em;
+    }
+}
