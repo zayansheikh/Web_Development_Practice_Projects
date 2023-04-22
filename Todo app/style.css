@@ -1,0 +1,46 @@
+body{
+  background-image: linear-gradient(to right, rgb(119, 112, 255) , rgb(137, 2364, 255));
+}
+.container{
+  margin: auto;
+  border: 5px solid #1831bd;
+  width: 650px;
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.todoList {
+  /* width: 60px; */
+  padding: 10px;
+  margin: 4px;
+  border-radius: 10px;
+  background-color: rgb(134, 215, 241);
+  border: 3px solid #1831bd;
+  height: 30px;
+}
+.todoList button{
+  float: right;
+  margin-top: -5px;
+  margin-left: 5px;
+}
+button {
+  /* width: 20%; */
+  border-radius: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: white;
+  background-color: #1831bd;
+  margin: auto;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#todoInp {
+  padding: 10px 5px;
+  width: 25%;
+  background-color: rgb(206, 224, 214);
+  color: blue;
+  border-radius: 8px;
+  border: 3px solid blue;
+}
